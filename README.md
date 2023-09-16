@@ -26,7 +26,7 @@ Figma design in this link -> [Finance App Design](<https://www.figma.com/file/hO
 
 ### Features
 
-- [-] Login Screen
+- [ ] Login Screen
 
 - [ ] Mgr routes
 
