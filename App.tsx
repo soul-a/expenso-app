@@ -1,3 +1,4 @@
+import LoginScreen from "@/screens/LoginScreen";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 import { StatusBar } from "expo-status-bar";
@@ -22,13 +23,8 @@ export default function App() {
   }
 
   return (
-    <View
-      className="flex-1 items-center justify-center bg-slate-600"
-      onLayout={onLayoutRootView}
-    >
-      <Text className="font-text">
-        Open up App.tsx to start working on dsadsy onbghjvghfghfhur app!
-      </Text>
+    <View className="flex-1 bg-white" onLayout={onLayoutRootView}>
+      <LoginScreen />
       <StatusBar translucent />
     </View>
   );

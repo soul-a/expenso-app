@@ -8,6 +8,9 @@ module.exports = {
         title: "Montserrat-Bold",
         alt: "Montserrat-Medium",
       },
+      colors: {
+        "color-primary": "#4F3D56",
+      },
     },
   },
   plugins: [],
