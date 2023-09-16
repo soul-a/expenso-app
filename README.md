@@ -2,9 +2,13 @@
 
 App for manage your individuals finances
 
+Figma design in this link -> [Finance App Design](<https://www.figma.com/file/hO8TU4VWsBL400LdS4wRV5/Finance-App-UI-KIt-(Community)?node-id=6%3A599&mode=dev>)
+
 ### Utils commands
 
 - `npx expo start` - Run metro bundler
+
+- `npx expo start --clear` - Run and clear cache
 
 ### 🛠️ Tools
 
@@ -22,12 +26,12 @@ App for manage your individuals finances
 
 ### Features
 
-- [] Login Screen
+- [-] Login Screen
 
-- [] Mgr routes
+- [ ] Mgr routes
 
-- [] Home Screen
+- [ ] Home Screen
 
-- [] Context for Authentication
+- [ ] Context for Authentication
 
-- [] Class for call APIs using Axios
+- [ ] Class for call APIs using Axios
